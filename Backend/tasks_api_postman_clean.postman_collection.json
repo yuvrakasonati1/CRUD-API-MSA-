@@ -27,16 +27,6 @@
       }
     },
     {
-      "name": "Search Tasks by Title",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "{{baseUrl}}/api/tasks?title=express"
-        }
-      }
-    },
-    {
       "name": "Create Task",
       "request": {
         "method": "POST",
